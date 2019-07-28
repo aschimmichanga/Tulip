@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "500693927245",
+    "firebase_url": "https://tulip-63846.firebaseio.com",
+    "project_id": "tulip-63846",
+    "storage_bucket": "tulip-63846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500693927245:android:40bbfd49e80cedef",
+        "android_client_info": {
+          "package_name": "com.aschimmichanga.tulip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500693927245-ud5up8cani2nfpu2qdilmvtfju2d1kee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYi0FertCNPJf0VJTtFknTu1JrhcIGNKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500693927245-ud5up8cani2nfpu2qdilmvtfju2d1kee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
