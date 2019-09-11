@@ -5,4 +5,11 @@
     <color name="linkPurple">#A900FE</color>
     <color name="colorAccent">#FC00E9</color>
     <color name="lightpink">#FED4FA</color>
+
+    <!--THEME-->
+    <color name="bgblack">#282F37</color>
+    <color name="peach">#F5888B</color>
+    <color name="purple">#775DA5</color>
+    <color name="teal">#26CDD6</color>
+
 </resources>

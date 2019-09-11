@@ -1,34 +1,71 @@
 {
   "project_info": {
-    "project_number": "500693927245",
-    "firebase_url": "https://tulip-63846.firebaseio.com",
-    "project_id": "tulip-63846",
-    "storage_bucket": "tulip-63846.appspot.com"
+    "project_number": "1074871406686",
+    "firebase_url": "https://tulip-2e9f0.firebaseio.com",
+    "project_id": "tulip-2e9f0",
+    "storage_bucket": "tulip-2e9f0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:500693927245:android:40bbfd49e80cedef",
+        "mobilesdk_app_id": "1:1074871406686:android:40bbfd49e80cedef",
         "android_client_info": {
           "package_name": "com.aschimmichanga.tulip"
         }
       },
       "oauth_client": [
         {
-          "client_id": "500693927245-ud5up8cani2nfpu2qdilmvtfju2d1kee.apps.googleusercontent.com",
+          "client_id": "1074871406686-sbbjd83ka5o0umu3vtt4g5lt56clha18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aschimmichanga.tulip",
+            "certificate_hash": "bbc75456f33284d332058b420cfb2e428baedc42"
+          }
+        },
+        {
+          "client_id": "1074871406686-6qtuqbtum4igsd4ba0g3bh39b6q979gc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBYi0FertCNPJf0VJTtFknTu1JrhcIGNKk"
+          "current_key": "AIzaSyCmIjUqD4p9A1NWCASW4h-x4t8cAFHRnRc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "500693927245-ud5up8cani2nfpu2qdilmvtfju2d1kee.apps.googleusercontent.com",
+              "client_id": "1074871406686-6qtuqbtum4igsd4ba0g3bh39b6q979gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074871406686:android:a8974a1b423dedd9",
+        "android_client_info": {
+          "package_name": "com.aschimmichanga.tulipreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074871406686-6qtuqbtum4igsd4ba0g3bh39b6q979gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmIjUqD4p9A1NWCASW4h-x4t8cAFHRnRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074871406686-6qtuqbtum4igsd4ba0g3bh39b6q979gc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
