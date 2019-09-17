@@ -7,9 +7,11 @@
     <color name="lightpink">#FED4FA</color>
 
     <!--THEME-->
-    <color name="bgblack">#282F37</color>
+    <color name="bgblack">#222326</color>
     <color name="peach">#F5888B</color>
-    <color name="purple">#775DA5</color>
+    <color name="purple">#511773</color>
     <color name="teal">#26CDD6</color>
+    <color name="bgblue">#43465B</color>
+    <color name="bgpurple">#1A0A33</color>
 
 </resources>
